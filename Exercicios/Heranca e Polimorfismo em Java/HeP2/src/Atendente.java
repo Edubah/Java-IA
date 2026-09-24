@@ -51,4 +51,6 @@ public class Atendente extends Usuario{
     public void alterarSenha() {
         super.alterarSenha();
     }
+
+
 }
